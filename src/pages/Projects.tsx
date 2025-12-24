@@ -1,0 +1,11 @@
+export default function Projects() {
+  return (
+    <>
+      <h1>Projects</h1>
+      <ul>
+        <li>Project A</li>
+        <li>Project B</li>
+      </ul>
+    </>
+  );
+}
